@@ -7,9 +7,11 @@ Windows: simply download and run [this link].
 Mac: Go to this link, choose the correct installer for your version, download and run.
 Ubuntu/Linux: This is much more complicated and requires admin access. Open a Terminal and run
 
+```
 sudo apt-get install ruby
 sudo apt-get install git
 gem install rails
+```
 
 To use your installation
 Open a Terminal or Command Prompt. Type `irb` to open the interactive ruby platform, then type 
