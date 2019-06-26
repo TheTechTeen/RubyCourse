@@ -60,4 +60,3 @@ This is just the beginning of learning about strings, which have half a million(
 3. Create a variable with a mix of uppercase    and lowercase letters, then use one line to make only the first letter uppercase and the rest lowercase.
 
 Good Day and Good Job everyone,  and let's get coding!
-Next up: Numbers

@@ -56,6 +56,5 @@ Assignment = "Create a variable myname and
 ```
 
 Good day all, and let's get coding!
-Next Time: String Methods
 
 p.s. Beware of spelling! You don't have to have the name correct though, just so long as it's wrong the same way every time!

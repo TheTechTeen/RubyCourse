@@ -63,5 +63,4 @@ My number is: 4
 
 3. Make a string that follows this format: "My number is: " and the sum of your two numbers from above, then print it.
 
-Good Job all, and let's get coding! 
-Next Week: Working with source code.
+Good Job all, and let's get coding!
