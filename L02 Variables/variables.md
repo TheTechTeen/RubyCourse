@@ -28,7 +28,7 @@ As you see, the second time we output the variable, there was no trace of the fi
 
 ## Naming A Variable
 
-Names for variables are pretty lenient, but be sure not to use a name that has already been used. Also, use only letters, numbers, and underscores(_). However, never start a variable name with a number, and if you start the name with a capital letter, ruby will yell at you if you try to change it. For example:
+Names for variables are pretty lenient, but be sure not to use a name that has already been used. Also, use only letters, numbers, and underscores(_). However, never start a variable name with a number, and if you start the name with a capital letter, Ruby will yell at you if you try to change it(It's a bad practice anyway). For example:
 
 ```
 001: Test = 100
@@ -43,13 +43,13 @@ It is good practice only to use uppercase when you are defining a variable that 
 
 ## Using A Variable
 
-Using a variable is also simple. In the code, the name of the variable is basiclly saying, "look for this box and give me the content". So, as you saw above, when you output the variable, it prints the last assigned contents.
+Using a variable is also simple. In the code, the name of the variable is basicly saying, "look for this box and give me the content". So, as you saw above, when you output the variable, it prints the last assigned contents.
 
 Good Job All! You now know how to use variables in Ruby!
 
 ## Assignment 
 
-```
+```ruby
 Assignment = "Create a variable myname and
  assign it a string containing your name. 
  Then output the string."

@@ -1,8 +1,8 @@
-# Nmbbers
+# Numbers
 Numbers are a very useful thing to learn about in any language. In this lesson, we will learn what they are and what they can do.
 
 ## Creating Numbers
-Creating numbers is easy. Type them! If you put 123 in your code with nothing special around it you have made the number one hundred and twenty-three!
+Creating numbers is easy. Type them! If you put `123` in your code with nothing special around it you have made the number one hundred and twenty-three!
 
 ## Numbers in Variables
 To put a number in a variable, use the same format as for strings. For example, 
