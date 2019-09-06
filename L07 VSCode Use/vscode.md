@@ -6,12 +6,12 @@ Opening a file in VSCode is simple: use the open file option in the file menu (f
 You can also open VSCode from the command line. Just run the command `code`. If, as is more likely, you need to open a file, navigate to the folder containing your file and run `code filename.rb`.  To open a folder, navigate into it and run `code .`. Note: The dot is very important; it stands for the current directory.
 
 ## Adding Extensions
-One of the best things about VSCode is that it allows users to create extensions and let other users install them. To look at the available extensions, go to the sidebar on the left and select the button at the bottom, with a box inside another (broken?) box. Search ruby. Each extension from the list provides some new feature. Install the Ruby extension to provide basic Ruby support. Look through the other extensions and install any you feel would be useful.
+One of the best things about VSCode is that it allows users to create extensions and let other users install them. To look at the available extensions, go to the sidebar on the left and select the button at the bottom, with a box inside another (broken?) box. Search `ruby`. Each extension from the list provides some new feature. Install the Ruby extension to provide basic Ruby support. Look through the other extensions and install any you feel would be useful.
 
 ## Editing
 To use a code editor, you type exactly the same code you would use for IRB. You then save and run the file. Editors improve on basic text editors by adding things such as syntax highlighting, autocompletion. For example, the basic ruby extension automatically colors data structures and conditionals purple, strings red, and functions yellow. As you type, autocompletion boxes will pop up. Use the up and down keys to select the thing you are typing and hit enter, and VSCode will complete the method.
 
-Running from the editor
+## Running from the editor
 Some editors allow you to run code directly from the editor. Press f5, then select Ruby from the menu. Your code will run, and also provide info on the session. 
 You can also open a terminal by pressing Ctrl-Shift-P and searching "terminal". You can also use that command to search for any function you want VSCode to do.
 
