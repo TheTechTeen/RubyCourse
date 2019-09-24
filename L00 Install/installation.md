@@ -3,8 +3,8 @@
 Ruby is a modern programming language used prevalently for developing web applications, such as Twitter, Hulu, and Github. As an interpreted language, each line of Ruby code is translated and run before moving on to the next line(meaning you must have an interpreter program to run the code every time), compared to compiled languages, which are translated all at once into a new file of machine code, which can then be run as much as wanted without any necessary interpretation. 
 
 ### Installation
-Windows: simply download and run [this link].
-Mac: Go to this link, choose the correct installer for your version, download and run.
+Windows: simply download and run [this link](https://s3.amazonaws.com/railsinstaller/Windows/railsinstaller-3.4.0.exe).
+Mac: Go to [this link](http://railsinstaller.org/en), choose the correct installer for your version, download and run.
 Ubuntu/Linux: This is much more complicated and requires admin access. Open a Terminal and run
 
 ```
