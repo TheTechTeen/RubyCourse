@@ -28,7 +28,7 @@ So why does our code start a newline between the name and message? When you hit 
 So how do we remove the newline? There are multiple ways. You can manually remove it using slicing or scanning(more on that later), or, much simpler, you can use `.chomp`. `chomp` is another string method and removes newlines from the end of a string. Usually, you see it as `gets.chomp`.
  
 ## Returns
-When we used IRB, I told you that the `=> "etc."` was the return of the code you ran. All functions have some return, be it a number, a string, or `nil`(aka nothing). this return is what you store in variables. Often the return depends on input, or on the object you run the method on. For example, the return of one of the string methods we learned is the original string, modified by the method. Other methods or functions take different formats, such as concatenation, which returns the first string joined with the second. 
+When we used IRB, I told you that the `=> "etc."` was the return of the code you ran. All functions have some return, be it a number, a string, or `nil`(aka nothing in digital form). This return is what you store in variables. Often the return depends on input, or on the object you run the method on. For example, the return of one of the string methods we learned is the original string, modified by the method. Other methods or functions take different formats, such as concatenation, which returns the first string joined with the second. 
 
 So this has been one long lesson, and now you can accept user input and deal with it, and have learned more about variables!
 
