@@ -5,7 +5,7 @@ Today we will learn about variables. You can imagine variables as little boxes, 
 
 ## Declaring a variable
 
-Declaring a variable, in keeping with the box metaphor above, is like sticking a label on the side of a box and putting something in it. In code, we use the = sign to assign a value. For example, in
+Declaring a variable, in keeping with the box metaphor above, is like sticking a label on the side of a box and putting something in it. In code, we use the `=` sign to assign a value. For example, in
 
 `my_var = "Hello World"`
 
@@ -24,11 +24,11 @@ Hello you
 => nil
 ```
 
-As you see, the second time we output the variable, there was no trace of the first assignment. The info was gone. If you want to keep a variable's info and yet reassign it, you must make a new variable. By the way, from now on I am not going to show the => nil anymore.
+As you see, the second time we output the variable, there was no trace of the first assignment. The info was gone. If you want to keep a variable's info and yet reassign it, you must make a new variable. By the way, from now on I am not going to show the `=> nil` anymore.
 
 ## Naming A Variable
 
-Names for variables are pretty lenient, but be sure not to use a name that has already been used. Also, use only letters, numbers, and underscores(_). However, never start a variable name with a number, and if you start the name with a capital letter, Ruby will yell at you if you try to change it(It's a bad practice anyway). For example:
+Names for variables are pretty lenient, but be sure not to use a name that has already been used. Also, use only letters, numbers, and underscores(_). However, never start a variable name with a number, and if you start the name with a capital letter, Ruby will yell at you if you try to change it. For example:
 
 ```
 001: Test = 100
@@ -43,15 +43,14 @@ It is good practice only to use uppercase when you are defining a variable that 
 
 ## Using A Variable
 
-Using a variable is also simple. In the code, the name of the variable is basicly saying, "look for this box and give me the content". So, as you saw above, when you output the variable, it prints the last assigned contents.
+Using a variable is also simple. In the code, the name of the variable is basically saying, "look for this box and give me the content". So, as you saw above, when you output the variable, it prints the last assigned contents.
 
 Good Job All! You now know how to use variables in Ruby!
 
 ## Assignment 
 
 ```ruby
-Assignment = "Create a variable myname and
- assign it a string containing your name. 
+Assignment = "Create a variable myname and assign it a string containing your name. 
  Then output the string."
 ```
 

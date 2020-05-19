@@ -6,6 +6,7 @@ If you spent time looking at RailsInstaller, you may have noticed all the differ
 Git is a version control system, a program that stores the state of your code so that if you break it, you can click a button and it will revert to one of the times you saved it. 
 
 ## Using Git
+
 To start, you will have to configure Git. Run
 ```bash
 git config --global user.name "Your Name" 
@@ -36,7 +37,7 @@ To see all your previous commits, you can run
 `git log`
 
 ## Git for VSCode
-If you are using VSCode, there is a very easy way to use Git. On the left sidebar, click on the Git button on the left sidebar (it looks like a Y) to open the interface. Click the init button. From then on, VSCode will show you the changes since your last commit, and type in a commit message and click the check mark, and it will automagically commit for you.
+If you are using VSCode, there is a very easy way to use Git. On the left sidebar, click on the Git button on the left sidebar (it looks like a Y) to open the interface. Click the init button. From then on, VSCode will show you the changes since your last commit, and you can type in a commit message and click the check mark, and it will automagically commit for you.
 
 ## Assignment: 
 Create a git repository in your `ruby` folder. Make an initial commit.

@@ -31,7 +31,8 @@ Hello World
 
 appear.
 
-How We'll use IRB
+## How We'll use IRB
+
 To use IRB you type a command and hit enter. The output will appear on the lines below, followed by the return of the command prefaced with `=>`. For example, in the command shown above, we ran `puts "Hello World"`, which output `Hello World`, and returned `nil`(nothing).
 
 When I show you code in IRB I will use the format:

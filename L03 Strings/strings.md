@@ -27,10 +27,10 @@ Strings also have multiple other simple methods. Most of them look like
 `string.method`
 
 Some of the most useful methods are:
-`.downcase` return the string with all the letters of the string lowercase.
-`.upcase` RETURN THE STRING WITH ALL THE LETTERS, YOU GUESSED IT, UPPERCASE.
-`.capitalize` Capitalize the first letter of the string.
-`.length` or `.size` return how many characters are in the string.
+* `.downcase` return the string with all the letters of the string lowercase.
+* `.upcase` RETURN THE STRING WITH ALL THE LETTERS, YOU GUESSED IT, UPPERCASE.
+* `.capitalize` Capitalize the first letter of the string, and downcase the rest.
+* `.length` or `.size` return how many characters are in the string.
 
 Note: This does not change the string, it creates a string with the same characters but with the special properties defined by the method. So you can do
 
@@ -52,11 +52,12 @@ You can also chain methods, for example, if `hello = "HELlo"`
 => "Hello"
 ```
 
-This is just the beginning of learning about strings, which have half a million(maybe not quite, but it seems like it) methods. We will soon learn more in upcoming lessons. 
+This is just the beginning of learning about strings, which have half a million (maybe not quite, but it seems like it) methods. We will soon learn more in upcoming lessons. 
+
 ## Assignment: 
 
 1. Create a variable with your name in it, and  use puts and concatenation to make the terminal say `"Hello, yourname"`
 2. Using the variable you just created, print(when I say print, I mean output to the terminal with puts) your name in uppercase, lowercase, and capitalized.
-3. Create a variable with a mix of uppercase    and lowercase letters, then use one line to make only the first letter uppercase and the rest lowercase.
+
 
 Good Day and Good Job everyone,  and let's get coding!

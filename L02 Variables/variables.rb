@@ -1,3 +1,3 @@
 
-my_name = "My_Name"
-puts my_name
+my_name = "My_Name" # assign string to variable
+puts my_name # Output variable to screen

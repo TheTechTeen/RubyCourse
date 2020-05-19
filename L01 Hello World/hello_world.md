@@ -10,7 +10,7 @@ Today we will cover the first lesson learned in all languages: to print "Hello W
 
 Which outputs:
 
-```terminal
+```bash
 Hello World
 => nil
 ```

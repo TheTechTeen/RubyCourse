@@ -5,12 +5,12 @@ So now that you can accept user input, how can you use that data? You know how t
 
 The main conditional used in most languages is the if statement. The syntax is:
 ```ruby
-if my_bool == true
+if my_bool
     #My code
 end
 ```
 
-`My code`(Anything between the `if` and its `end`) will only execute if `my_bool` is true. For the condition (`my_bool == true` in my code), you can use any of the booleans you learned last lesson(or even write `if true`, in which case you might as well forget the if statement completely, seeing as it will run every time.). So, if the boolean is true, the code executes. For example:
+`My code` (Anything between the `if` and its `end`) will only execute if `my_bool` is true. For the condition (`my_bool` in my code), you can use any of the booleans you learned last lesson(or even write `if true`, in which case you might as well forget the if statement completely, seeing as it will run every time.). So, if the boolean is true, the code executes. For example:
 
 ```ruby
 #seven_guess.rb
@@ -26,10 +26,10 @@ end
 Running this twice, we get:
 
 ```
-$ruby seven_guess.rb
+$ ruby seven_guess.rb
 <gets> 6
 Incorrect
-$ruby seven_guess.rb
+$ ruby seven_guess.rb
 <gets> 7
 the secret number is equal to 7!
 ```
@@ -61,3 +61,4 @@ if assignment.complete?
     puts "Good job, and let's get coding!"
 end
 ```
+Next up: Else

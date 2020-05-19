@@ -34,6 +34,7 @@ So this has been one long lesson, and now you can accept user input and deal wit
 
 ## Assignment:
 Write a short program that accepts the user's name and prints from one long string(after concatenation): 
+
 ```
 Hello!
 (name), you are welcome here.

@@ -14,7 +14,7 @@ numvar = 0
 ## Operations on Numbers
 Numbers support all the basic arithmetical operations. So
 
-```
+```ruby
 1 + 2 = 3
 4 - 2 = 2
 2 * 3 = 6 # * is the multiplication sign in almost every coding language
@@ -24,12 +24,12 @@ Numbers support all the basic arithmetical operations. So
 
 The interpreter will follow the order of operations, multiplying and dividing before doing addition and subtraction. For example,
 
-```
+```ruby
 3 + 5 * 2 = 11
 (3 + 5) * 2 = 16 # You can use parentheses to change the order.
 ```
 
-"#" Is the symbol for a comment, a piece of the document unrun by the interpreter. More on that in another lesson
+`#` Is the symbol for a comment, a piece of the document unrun by the interpreter. More on that in another lesson
 
 ## Strings and Numbers
 

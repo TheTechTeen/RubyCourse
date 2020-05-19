@@ -4,13 +4,13 @@ So, up to now, you have been using IRB to learn Ruby. IRB is a useful way to lea
 
 ## Assignment: 
 Follow the instructions to learn how to run source code.
-First, create a directory in which we will be storing our files. put it on the desktop and name it `coding`. Inside of that, create another new folder, `ruby`.
+First, create a directory in which we will be storing our files. Put it on the desktop and name it `coding`. Inside of that, create another new folder, `ruby`.
 
 To write source code, the first thing you need is a text editor. Luckily, most operating systems come with one pre-installed. So, follow the instructions for your operating system to open your respective editor. 
 
 Windows: in the search bar that you use to open the terminal, instead of typing cmd, search for Notepad. Click on the result (it should be, you guessed it, Notepad). An editor window should open.
 
-Linux: Open a terminal and type gedit. An editor window should open.
+Linux: Open a terminal and run gedit. An editor window should open.
 
 Mac: Open your applications folder and open TypeEdit. An editor window should open.
 
@@ -39,7 +39,7 @@ after a minute
 ```
 Yourname's favorite number is your_favorite_number
 ```
-should appear. This is the same result you would have in IRB, but now you have a source code file you can copy, change, share and run as much as you want, with no restrictions! You can write any ruby command in the file, and it will be run just as if you were in IRB, line by line. Just navigate in the command line to the folder where you saved your code, and run the command `ruby filename.rb` and your code will be ran by the interpreter.
+should appear. This is the same result you would have in IRB, but now you have a source code file you can copy, change, share and run as much as you want, with no restrictions! You can write any ruby command in the file, and it will be run just as if you were in IRB, line by line. Just navigate in the command line to the folder where you saved your code, and run the command `ruby filename.rb` (substituting your code file's name) and your code will be ran by the interpreter.
 
 Good job all! You can now run ruby source code files, and can share, correct, remodel, and enjoy your code line-by-line or as a whole.
 
